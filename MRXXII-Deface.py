@@ -1,17 +1,17 @@
 #!/usr/bin/python
 #######################     
-#  https://m.youtube.com/channel/UCNHZbNTS69kwCYJ8jcLzUzQ/ #
+#  https://www.youtube.com/@hrcreator22 #
 #######################
 mess = """\33[31;1m==================================================
                Membuat Script Deface
-                  Author : RoniYT
+                  Author : MR.XXII
 =================================================="""
 
 print mess
 print "Isi Semua Data Yang Ada !!"
 title = raw_input("Judul Deface :")
 heading = raw_input("Pembuat :")
-imagelink = raw_input("Link Gambar Tengah : ")
+imagelink = raw_input("Link Gambar Profil : ")
 bgimage = raw_input("Link Gambar Background :")
 message = raw_input("Pesan Anda :")
 textcolor = raw_input("Warna Pesan Contoh (red) :")
@@ -128,6 +128,6 @@ print "\33[0;32mScript Sukses Di Buat !"
 print "\33[0;32mUntuk Cek Script Ketik : ls"
 print "\33[0;32mUntuk Save Ke Memory Ketik :"
 print "\33[0;32mmv -f (nama script) (alamat penyimpanan)"
-print "\33[0;32mKontak : https://m.youtube.com/channel/UCNHZbNTS69kwCYJ8jcLzUzQ/"
+print "\33[0;32mKontak : https://www.youtube.com/@hrcreator22"
 
 fo.close()
